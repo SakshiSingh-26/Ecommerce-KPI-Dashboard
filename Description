@@ -1,0 +1,12 @@
+This E-commerce Monthly Performance Dashboard provides a clear, data-driven overview of how the business performed across revenue, orders, customer behavior, categories, and products during the selected period.
+
+At the top, the dashboard highlights four essential KPIs — Net Revenue, Total Orders, Average Order Value (AOV), and the Repeat Customer Rate. These give an instant snapshot of the business’s health and overall performance.
+
+The central section focuses on product and category insights.
+A Top Categories bar chart shows which product segments are driving the most revenue, while the Top Products horizontal bar chart highlights the highest-performing SKUs. Both visuals are fully interactive and respond to slicers and date filters.
+
+Customer behavior is visualized through the Customer Type pie chart, breaking down new vs returning customers to understand retention patterns. On the bottom left, the Orders Trend line chart shows how order volume has changed month-to-month, while the Revenue Trend line chart tracks monthly revenue growth.
+
+Interactive filters on the right — including a timeline filter and a category slicer — allow users to drill down into specific time periods or product categories, making the dashboard useful for quick insights as well as deeper analysis.
+
+Overall, this dashboard presents a structured and visual summary of key e-commerce metrics, helping stakeholders track performance, identify trends, and make informed decisions.
