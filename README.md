@@ -84,6 +84,10 @@ It helps users understand customer behavior, category trends, and retention patt
 📬 Connect With Me
 
 If you'd like help building custom dashboards, retention analysis, or performance reports, feel free to reach out!
-Workbook structuring & sheet protection
+Workbook structuring & sheet protection Clean, minimal UI design
 
-Clean, minimal UI design
+📄 Full Monthly Performance Notion Report  
+👉 ./Report/E-commerce- Monthly Performance….md
+
+📊 Download the Interactive Excel Dashboard  
+👉 Ecomm Performance Dashboard.xlsx
